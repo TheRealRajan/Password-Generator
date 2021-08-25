@@ -2,7 +2,8 @@
 ### A password generator using vanilla JavaScript. <br><br>
 You can choose what kind of characters and numbers and symbols you want in your password by selecting the options you want.<br><br>
 When you are done selecting you can press on the <kbd>Generate Password</kbd> button to get your password.<br><br>
-You can then click on the clipboard icon 📋 beside the generated password to copy it to your clipboard.<br>
+You can then click on the clipboard icon 📋 beside the generated password to copy it to your clipboard.<br><br>
+The demo is live at **https://therealrajan.github.io/Password-Generator/**
 
 ![image](https://user-images.githubusercontent.com/22878736/130810565-1f1c8809-8bc6-412b-aa18-3393053babb5.png)
 
